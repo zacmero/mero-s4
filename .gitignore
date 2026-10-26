@@ -1,0 +1,27 @@
+# Local diagnostic outputs and personal archives (never commit)
+logs/
+captures/
+private/
+data/
+backups/
+dumps/
+images/private/
+*.log
+*.pcap
+*.pcapng
+*.img
+*.bin
+*.dump
+*.sqlite
+*.sqlite3
+*.tar
+*.zip
+
+# Build/editor caches
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+build/
+dist/
